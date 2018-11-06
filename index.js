@@ -1,1 +1,1 @@
-module.exports = require('./lib/assistant-watson')
+module.exports = require('./lib/assistant-notifier')
